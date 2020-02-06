@@ -14,5 +14,17 @@
 
 
 
+### 자바스크립트 기반
 
+  **function response** : 채팅이 수신될 경우 호출되는 이벤트 리스너.
+
+- room : 채팅이 수신된 채팅방의 이름
+- msg : 수신된 채팅의 내용
+- sender : 채팅을 보낸 사람의 이름
+- isGroupChat : 채팅이 수신된 방이 단체 채팅방이라면 true, 1:1 채팅방이라면 false
+- replier : 답장에 사용되는 객체
+
+```js
+function response(room, msg, sender, isGroupChat, replier, imageDB) {}
+```
 
