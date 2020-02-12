@@ -24,3 +24,14 @@ replier.reply("제목" + asap + "내용");
 ```js
 java.lang.Thread.sleep(1000); //1초뒤에 발동된다.
 ```
+
+### 로그를 남기는법
+
+`Log.info();` ,  `Log.debug();` , ` Log.error();` 를 통해 로그를 남길 수 있습니다.
+
+```js
+Log.info(); 
+Log.debug(); 
+Log.error();
+```
+
