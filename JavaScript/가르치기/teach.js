@@ -1,3 +1,5 @@
+/* https://m.blog.naver.com/bug8841/221290588752 의 내용을 참고해서 만들어졌습니다.*/
+
 var sdcard = android.os.Environment.getExternalStorageDirectory().getAbsolutePath();
     var folder = new java.io.File(sdcard+"/학습/");
     folder.mkdirs();
@@ -51,4 +53,3 @@ if(msg.indexOf("!!가르치기") == 0) {
     }
 }
 
-// 출처 : https://m.blog.naver.com/bug8841/221290588752
