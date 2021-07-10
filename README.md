@@ -8,7 +8,7 @@
 
 - 그것에 대한 응답을 앱의 작동으로 생성한다.
 
-  (응답 생성은 `JS` ([Dark Tornado](https://blog.naver.com/dt3141592)님의 앱) 혹은 `Python`([mansuiki](https://github.com/mansuiki) 의 앱) 의 작동으로 생성됩니다)
+  (응답 생성은 `JS` ([Dark Tornado](https://blog.naver.com/dt3141592)님의 앱) 혹은 `Python`([mansuiki](https://github.com/mansuiki) 의 앱) 의 작동으로 생성된다)
 
 - [Wear OS by Google](https://play.google.com/store/apps/details?id=com.google.android.wearable.app) 을 통해 카카오톡에 응답한다.
 
